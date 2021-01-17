@@ -1,6 +1,6 @@
 # Matplotlib-Mouse-SCC
 
-## Matplotlib and Python code that does the following:
+## Python/Matplotlib code that does the following:
 
 - Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
